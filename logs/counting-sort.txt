@@ -1,0 +1,600 @@
+Make a new test with small integer..
+3098
+8553
+8591
+8582
+5384
+1297
+9267
+6137
+9271
+5894
+Test with: 497726
+Time taken:5.192243ms
+Memory used:3253560
+--------------------
+Make a new test with small integer..
+5802
+3981
+2079
+2066
+1270
+493
+3086
+9819
+8981
+6052
+Test with: 117175
+Time taken:1.573928ms
+Memory used:942256
+--------------------
+Make a new test with small integer..
+4885
+5710
+1387
+3749
+1528
+2818
+4384
+7903
+1224
+4547
+Test with: 293612
+Time taken:3.619224ms
+Memory used:2351280
+--------------------
+Make a new test with small integer..
+1532
+3616
+7839
+540
+5786
+7051
+8076
+3640
+7351
+8844
+Test with: 190364
+Time taken:2.387087ms
+Memory used:-5765312
+--------------------
+Make a new test with small integer..
+2305
+9183
+4801
+90
+1602
+2258
+3767
+3231
+7578
+8154
+Test with: 167822
+Time taken:1.235071ms
+Memory used:1343664
+--------------------
+Make a new test with small integer..
+1223
+7342
+4208
+7743
+1968
+1166
+3710
+4535
+440
+4904
+Test with: 393162
+Time taken:4.32914ms
+Memory used:279232
+--------------------
+Make a new test with small integer..
+4657
+4415
+9371
+3039
+3430
+9513
+9700
+1359
+6720
+783
+Test with: 410870
+Time taken:3.545319ms
+Memory used:146920
+--------------------
+Make a new test with small integer..
+2984
+8247
+8010
+565
+4162
+6829
+7920
+2048
+6756
+5695
+Test with: 678666
+Time taken:5.190916ms
+Memory used:2137912
+--------------------
+Make a new test with small integer..
+6200
+9456
+6629
+1092
+8831
+7577
+7886
+5320
+5399
+1162
+Test with: 243447
+Time taken:1.483957ms
+Memory used:1949872
+--------------------
+Make a new test with small integer..
+292
+1888
+6611
+9103
+9888
+8318
+3756
+2019
+7807
+6157
+Test with: 858652
+Time taken:9.597523ms
+Memory used:-509200
+--------------------
+Make a new test with ordered small integer..
+676
+677
+678
+679
+680
+681
+682
+683
+684
+685
+Test with: 422181
+Time taken:2.581557ms
+Memory used:3383472
+--------------------
+Make a new test with ordered small integer..
+854
+855
+856
+857
+858
+859
+860
+861
+862
+863
+Test with: 538795
+Time taken:3.857842ms
+Memory used:-5940400
+--------------------
+Make a new test with ordered small integer..
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+Test with: 601393
+Time taken:5.153964ms
+Memory used:499128
+--------------------
+Make a new test with ordered small integer..
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+Test with: 778996
+Time taken:9.389012ms
+Memory used:1416728
+--------------------
+Make a new test with ordered small integer..
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+Test with: 842632
+Time taken:7.299709ms
+Memory used:507328
+--------------------
+Make a new test with ordered small integer..
+521
+522
+523
+524
+525
+526
+527
+528
+529
+530
+Test with: 460260
+Time taken:4.18168ms
+Memory used:3686576
+--------------------
+Make a new test with ordered small integer..
+923
+924
+925
+926
+927
+928
+929
+930
+931
+932
+Test with: 847029
+Time taken:3.47854ms
+Memory used:-3646864
+--------------------
+Make a new test with ordered small integer..
+662
+663
+664
+665
+666
+667
+668
+669
+670
+671
+Test with: 270060
+Time taken:1.523983ms
+Memory used:2162864
+--------------------
+Make a new test with ordered small integer..
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+Test with: 731079
+Time taken:2.795866ms
+Memory used:-3097824
+--------------------
+Make a new test with ordered small integer..
+955
+956
+957
+958
+959
+960
+961
+962
+963
+964
+Test with: 131464
+Time taken:527.041µs
+Memory used:1056944
+--------------------
+Make a new test with big integer..
+51456
+67439
+75119
+82449
+66779
+66139
+34722
+95829
+15261
+81860
+Test with: 242060
+Time taken:859.192µs
+Memory used:1941680
+--------------------
+Make a new test with big integer..
+78583
+56411
+16450
+99568
+50878
+93805
+50775
+33731
+82693
+13863
+Test with: 509551
+Time taken:3.859099ms
+Memory used:-4875400
+--------------------
+Make a new test with big integer..
+59119
+28138
+29260
+46134
+89439
+31108
+60202
+85150
+47978
+77052
+Test with: 141181
+Time taken:860.1µs
+Memory used:1130672
+--------------------
+Make a new test with big integer..
+73036
+93610
+28818
+75072
+45577
+22644
+39663
+12311
+70099
+57099
+Test with: 371757
+Time taken:2.939554ms
+Memory used:-2336928
+--------------------
+Make a new test with big integer..
+55160
+27507
+13762
+30827
+29363
+82288
+92417
+26433
+50820
+74007
+Test with: 479516
+Time taken:4.117556ms
+Memory used:805856
+--------------------
+Make a new test with big integer..
+52424
+77566
+85274
+83537
+38006
+65441
+42857
+78125
+21478
+47424
+Test with: 350600
+Time taken:2.120318ms
+Memory used:2810032
+--------------------
+Make a new test with big integer..
+35173
+68582
+52304
+47873
+14359
+64075
+48390
+75395
+88921
+84692
+Test with: 217039
+Time taken:2.098593ms
+Memory used:-5024000
+--------------------
+Make a new test with big integer..
+60175
+86535
+58850
+26379
+74580
+91902
+41615
+27128
+83001
+16682
+Test with: 164637
+Time taken:1.025093ms
+Memory used:1319088
+--------------------
+Make a new test with big integer..
+73922
+58851
+68075
+35432
+45271
+19525
+92110
+51380
+67477
+17437
+Test with: 841533
+Time taken:8.200813ms
+Memory used:3569408
+--------------------
+Make a new test with big integer..
+90717
+95737
+26036
+61611
+33826
+97904
+34262
+68721
+59934
+99098
+Test with: 775561
+Time taken:7.131433ms
+Memory used:-578600
+--------------------
+Make a new test with ordered big integer..
+19634
+19635
+19636
+19637
+19638
+19639
+19640
+19641
+19642
+19643
+Test with: 652804
+Time taken:3.083661ms
+Memory used:-988960
+--------------------
+Make a new test with ordered big integer..
+29207
+29208
+29209
+29210
+29211
+29212
+29213
+29214
+29215
+29216
+Test with: 776685
+Time taken:5.611711ms
+Memory used:985304
+--------------------
+Make a new test with ordered big integer..
+21416
+21417
+21418
+21419
+21420
+21421
+21422
+21423
+21424
+21425
+Test with: 121509
+Time taken:1.065538ms
+Memory used:975024
+--------------------
+Make a new test with ordered big integer..
+16676
+16677
+16678
+16679
+16680
+16681
+16682
+16683
+16684
+16685
+Test with: 271215
+Time taken:2.432002ms
+Memory used:2171056
+--------------------
+Make a new test with ordered big integer..
+52072
+52073
+52074
+52075
+52076
+52077
+52078
+52079
+52080
+52081
+Test with: 731719
+Time taken:7.780507ms
+Memory used:-3524312
+--------------------
+Make a new test with ordered big integer..
+66208
+66209
+66210
+66211
+66212
+66213
+66214
+66215
+66216
+66217
+Test with: 85014
+Time taken:811.343µs
+Memory used:688296
+--------------------
+Make a new test with ordered big integer..
+79703
+79704
+79705
+79706
+79707
+79708
+79709
+79710
+79711
+79712
+Test with: 331040
+Time taken:2.217694ms
+Memory used:2654384
+--------------------
+Make a new test with ordered big integer..
+22468
+22469
+22470
+22471
+22472
+22473
+22474
+22475
+22476
+22477
+Test with: 38662
+Time taken:367.217µs
+Memory used:311464
+--------------------
+Make a new test with ordered big integer..
+47422
+47423
+47424
+47425
+47426
+47427
+47428
+47429
+47430
+47431
+Test with: 815740
+Time taken:5.899156ms
+Memory used:-3005880
+--------------------
+Make a new test with ordered big integer..
+70460
+70461
+70462
+70463
+70464
+70465
+70466
+70467
+70468
+70469
+Test with: 976000
+Time taken:7.456669ms
+Memory used:1280168
+--------------------

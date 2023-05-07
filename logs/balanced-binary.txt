@@ -1,0 +1,835 @@
+height in tree: 4
+-6110419486784430692 
+-5349938127898438133 
+-3511514505074979727 
+-2065806345097575393 
+-685380652327995589 
+140263113351236895 
+5865745824007500859 
+6723230740652946895 
+8679653721097687759 
+8764803527197620854 
+Test insert
+Time taken:302.533µs
+Memory used:88
+Test Search
+Time taken:20.118µs
+Memory used:56
+Test delete
+Time taken:21.305µs
+Memory used:56
+----------------------
+height in tree: 4
+-7814198867553464344 
+-1962797139237116264 
+573700481290411988 
+785459938999425244 
+3816465415638455821 
+5739453669761994088 
+5982536063101790232 
+6978504317422981648 
+8924355137808655644 
+8925022935726998491 
+Test insert
+Time taken:16.835µs
+Memory used:88
+Test Search
+Time taken:17.044µs
+Memory used:56
+Test delete
+Time taken:16.136µs
+Memory used:56
+----------------------
+height in tree: 4
+-8351242015241304651 
+-7579809643841092477 
+-5796190142878966562 
+-5040699913248403170 
+-1486177695306160836 
+-1231919253003078109 
+2334851400095020206 
+2903750282302891153 
+4208904739511023155 
+6726185081393206457 
+Test insert
+Time taken:16.066µs
+Memory used:88
+Test Search
+Time taken:16.276µs
+Memory used:56
+Test delete
+Time taken:17.253µs
+Memory used:56
+----------------------
+height in tree: 4
+-7860824224331810544 
+-7326081188601293686 
+-7281556520221129238 
+-3168670483648889297 
+-2839129302995748718 
+2924774100243346472 
+3616335539861696325 
+5834849067871578896 
+6646917290371206133 
+7367315038781169054 
+Test insert
+Time taken:16.904µs
+Memory used:88
+Test Search
+Time taken:17.324µs
+Memory used:56
+Test delete
+Time taken:16.206µs
+Memory used:56
+----------------------
+height in tree: 4
+-9164237621131077632 
+-8467049162532272549 
+-3231462977470515928 
+-2416252339104996598 
+1151764012593908778 
+4197319214681723278 
+4946674180231239000 
+5800157448438709856 
+6401737084309265853 
+8581121488955277260 
+Test insert
+Time taken:16.974µs
+Memory used:88
+Test Search
+Time taken:16.206µs
+Memory used:56
+Test delete
+Time taken:16.136µs
+Memory used:56
+----------------------
+height in tree: 4
+-5883732099329966935 
+-5833454358370537263 
+-4673601876034093339 
+-2763397341795193900 
+867849805915325414 
+1854486507166910149 
+2339922284559342718 
+4125531130765204207 
+4837104394077231532 
+8028976476915529470 
+Test insert
+Time taken:16.765µs
+Memory used:88
+Test Search
+Time taken:16.625µs
+Memory used:56
+Test delete
+Time taken:16.206µs
+Memory used:56
+----------------------
+height in tree: 4
+-9086938601895859024 
+-7180978114268130144 
+-6790382898995662095 
+-825386904711484721 
+-455237768539618666 
+-27718913214450788 
+2214545778614548767 
+2251185216371649044 
+2738339324532713140 
+6450857490017396509 
+Test insert
+Time taken:16.276µs
+Memory used:88
+Test Search
+Time taken:16.136µs
+Memory used:56
+Test delete
+Time taken:16.765µs
+Memory used:56
+----------------------
+height in tree: 4
+-7627319440629555113 
+-1632753947773311085 
+1913223249765114506 
+3450462406882576813 
+4786802693400787183 
+4859286613644354830 
+5766057526455882140 
+6598070234496077426 
+6872691067291928280 
+9207456622228531018 
+Test insert
+Time taken:14.809µs
+Memory used:88
+Test Search
+Time taken:14.459µs
+Memory used:56
+Test delete
+Time taken:14.599µs
+Memory used:56
+----------------------
+height in tree: 4
+-6419903144870858358 
+-3514806032935176053 
+-2415811263691671674 
+-2060842587046082448 
+-1819841727796770470 
+-1788291362764599985 
+-314961291357248154 
+3860266584448893116 
+6006237173721026338 
+7932443651802394221 
+Test insert
+Time taken:15.857µs
+Memory used:88
+Test Search
+Time taken:13.481µs
+Memory used:56
+Test delete
+Time taken:14.669µs
+Memory used:56
+----------------------
+height in tree: 4
+-8633508636579343596 
+-6001097901984590022 
+-4622295640342135940 
+-2187021704183699611 
+-1797465801376248543 
+-143960070920150071 
+3149221720557769691 
+3288363299766471273 
+3951406389463933954 
+3989748814442417527 
+Test insert
+Time taken:15.228µs
+Memory used:88
+Test Search
+Time taken:15.857µs
+Memory used:56
+Test delete
+Time taken:14.25µs
+Memory used:56
+----------------------
+height in tree: 4
+10 
+16 
+20 
+21 
+37 
+48 
+49 
+51 
+58 
+Test insert
+Time taken:15.647µs
+Memory used:88
+Test Search
+Time taken:15.158µs
+Memory used:56
+Test delete
+Time taken:14.39µs
+Memory used:56
+----------------------
+height in tree: 4
+15 
+31 
+36 
+68 
+73 
+74 
+84 
+87 
+90 
+91 
+Test insert
+Time taken:15.577µs
+Memory used:88
+Test Search
+Time taken:14.459µs
+Memory used:56
+Test delete
+Time taken:15.367µs
+Memory used:56
+----------------------
+height in tree: 4
+9 
+11 
+37 
+50 
+56 
+71 
+72 
+73 
+78 
+88 
+Test insert
+Time taken:15.228µs
+Memory used:88
+Test Search
+Time taken:14.32µs
+Memory used:56
+Test delete
+Time taken:15.019µs
+Memory used:56
+----------------------
+height in tree: 4
+3 
+7 
+23 
+32 
+39 
+43 
+44 
+59 
+80 
+83 
+Test insert
+Time taken:15.857µs
+Memory used:88
+Test Search
+Time taken:15.089µs
+Memory used:56
+Test delete
+Time taken:14.39µs
+Memory used:56
+----------------------
+height in tree: 4
+7 
+10 
+15 
+16 
+19 
+20 
+52 
+62 
+71 
+97 
+Test insert
+Time taken:15.298µs
+Memory used:88
+Test Search
+Time taken:14.669µs
+Memory used:56
+Test delete
+Time taken:14.948µs
+Memory used:56
+----------------------
+height in tree: 4
+5 
+12 
+17 
+21 
+25 
+33 
+34 
+46 
+49 
+79 
+Test insert
+Time taken:15.298µs
+Memory used:88
+Test Search
+Time taken:14.11µs
+Memory used:56
+Test delete
+Time taken:14.739µs
+Memory used:56
+----------------------
+height in tree: 4
+1 
+4 
+10 
+17 
+18 
+24 
+50 
+69 
+79 
+Test insert
+Time taken:14.879µs
+Memory used:88
+Test Search
+Time taken:14.181µs
+Memory used:56
+Test delete
+Time taken:14.949µs
+Memory used:56
+----------------------
+height in tree: 4
+1 
+2 
+12 
+18 
+19 
+23 
+43 
+55 
+57 
+Test insert
+Time taken:15.089µs
+Memory used:88
+Test Search
+Time taken:15.857µs
+Memory used:56
+Test delete
+Time taken:15.158µs
+Memory used:56
+----------------------
+height in tree: 4
+11 
+21 
+41 
+43 
+53 
+55 
+80 
+88 
+94 
+Test insert
+Time taken:15.507µs
+Memory used:88
+Test Search
+Time taken:15.856µs
+Memory used:56
+Test delete
+Time taken:14.739µs
+Memory used:56
+----------------------
+height in tree: 4
+0 
+4 
+14 
+17 
+18 
+31 
+32 
+71 
+80 
+Test insert
+Time taken:20.327µs
+Memory used:88
+Test Search
+Time taken:16.485µs
+Memory used:56
+Test delete
+Time taken:15.368µs
+Memory used:56
+----------------------
+height in tree: 4
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+94 
+95 
+Test insert
+Time taken:15.787µs
+Memory used:88
+Test Search
+Time taken:32.901µs
+Memory used:56
+Test delete
+Time taken:18.86µs
+Memory used:56
+----------------------
+height in tree: 4
+24 
+25 
+26 
+27 
+28 
+29 
+30 
+31 
+32 
+33 
+Test insert
+Time taken:15.368µs
+Memory used:88
+Test Search
+Time taken:13.272µs
+Memory used:56
+Test delete
+Time taken:13.97µs
+Memory used:56
+----------------------
+height in tree: 4
+42 
+43 
+44 
+45 
+46 
+47 
+48 
+49 
+50 
+51 
+Test insert
+Time taken:14.46µs
+Memory used:88
+Test Search
+Time taken:15.158µs
+Memory used:56
+Test delete
+Time taken:14.879µs
+Memory used:56
+----------------------
+height in tree: 4
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+Test insert
+Time taken:15.297µs
+Memory used:88
+Test Search
+Time taken:14.599µs
+Memory used:56
+Test delete
+Time taken:14.878µs
+Memory used:56
+----------------------
+height in tree: 4
+59 
+60 
+61 
+62 
+63 
+64 
+65 
+66 
+67 
+68 
+Test insert
+Time taken:14.809µs
+Memory used:88
+Test Search
+Time taken:14.67µs
+Memory used:56
+Test delete
+Time taken:13.831µs
+Memory used:56
+----------------------
+height in tree: 4
+66 
+67 
+68 
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+Test insert
+Time taken:14.879µs
+Memory used:88
+Test Search
+Time taken:14.669µs
+Memory used:56
+Test delete
+Time taken:15.367µs
+Memory used:56
+----------------------
+height in tree: 4
+69 
+70 
+71 
+72 
+73 
+74 
+75 
+76 
+77 
+78 
+Test insert
+Time taken:14.878µs
+Memory used:88
+Test Search
+Time taken:13.761µs
+Memory used:56
+Test delete
+Time taken:14.39µs
+Memory used:56
+----------------------
+height in tree: 4
+84 
+85 
+86 
+87 
+88 
+89 
+90 
+91 
+92 
+93 
+Test insert
+Time taken:9.151µs
+Memory used:88
+Test Search
+Time taken:11.107µs
+Memory used:56
+Test delete
+Time taken:17.463µs
+Memory used:56
+----------------------
+height in tree: 4
+51 
+52 
+53 
+54 
+55 
+56 
+57 
+58 
+59 
+60 
+Test insert
+Time taken:9.08µs
+Memory used:88
+Test Search
+Time taken:11.176µs
+Memory used:56
+Test delete
+Time taken:9.989µs
+Memory used:56
+----------------------
+height in tree: 4
+80 
+81 
+82 
+83 
+84 
+85 
+86 
+87 
+88 
+89 
+Test insert
+Time taken:9.011µs
+Memory used:88
+Test Search
+Time taken:8.453µs
+Memory used:56
+Test delete
+Time taken:9.989µs
+Memory used:56
+----------------------
+height in tree: 4
+8242191577434153487 
+8242191577434153488 
+8242191577434153489 
+8242191577434153490 
+8242191577434153491 
+8242191577434153492 
+8242191577434153493 
+8242191577434153494 
+8242191577434153495 
+8242191577434153496 
+Test insert
+Time taken:8.033µs
+Memory used:88
+Test Search
+Time taken:8.871µs
+Memory used:56
+Test delete
+Time taken:10.129µs
+Memory used:56
+----------------------
+height in tree: 4
+-3603931135492444318 
+-3603931135492444317 
+-3603931135492444316 
+-3603931135492444315 
+-3603931135492444314 
+-3603931135492444313 
+-3603931135492444312 
+-3603931135492444311 
+-3603931135492444310 
+-3603931135492444309 
+Test insert
+Time taken:8.103µs
+Memory used:88
+Test Search
+Time taken:9.5µs
+Memory used:56
+Test delete
+Time taken:9.151µs
+Memory used:56
+----------------------
+height in tree: 4
+8512543137933449947 
+8512543137933449948 
+8512543137933449949 
+8512543137933449950 
+8512543137933449951 
+8512543137933449952 
+8512543137933449953 
+8512543137933449954 
+8512543137933449955 
+8512543137933449956 
+Test insert
+Time taken:8.452µs
+Memory used:88
+Test Search
+Time taken:10.199µs
+Memory used:56
+Test delete
+Time taken:9.64µs
+Memory used:56
+----------------------
+height in tree: 4
+6256270502893876856 
+6256270502893876857 
+6256270502893876858 
+6256270502893876859 
+6256270502893876860 
+6256270502893876861 
+6256270502893876862 
+6256270502893876863 
+6256270502893876864 
+6256270502893876865 
+Test insert
+Time taken:8.592µs
+Memory used:88
+Test Search
+Time taken:10.059µs
+Memory used:56
+Test delete
+Time taken:9.43µs
+Memory used:56
+----------------------
+height in tree: 4
+-6753852632445859777 
+-6753852632445859776 
+-6753852632445859775 
+-6753852632445859774 
+-6753852632445859773 
+-6753852632445859772 
+-6753852632445859771 
+-6753852632445859770 
+-6753852632445859769 
+-6753852632445859768 
+Test insert
+Time taken:8.242µs
+Memory used:88
+Test Search
+Time taken:9.989µs
+Memory used:56
+Test delete
+Time taken:9.011µs
+Memory used:56
+----------------------
+height in tree: 4
+-4204216360354160535 
+-4204216360354160534 
+-4204216360354160533 
+-4204216360354160532 
+-4204216360354160531 
+-4204216360354160530 
+-4204216360354160529 
+-4204216360354160528 
+-4204216360354160527 
+-4204216360354160526 
+Test insert
+Time taken:8.173µs
+Memory used:88
+Test Search
+Time taken:9.919µs
+Memory used:56
+Test delete
+Time taken:10.828µs
+Memory used:56
+----------------------
+height in tree: 4
+-6529110195849396651 
+-6529110195849396650 
+-6529110195849396649 
+-6529110195849396648 
+-6529110195849396647 
+-6529110195849396646 
+-6529110195849396645 
+-6529110195849396644 
+-6529110195849396643 
+-6529110195849396642 
+Test insert
+Time taken:8.522µs
+Memory used:88
+Test Search
+Time taken:9.919µs
+Memory used:56
+Test delete
+Time taken:9.989µs
+Memory used:56
+----------------------
+height in tree: 4
+1178370787761343655 
+1178370787761343656 
+1178370787761343657 
+1178370787761343658 
+1178370787761343659 
+1178370787761343660 
+1178370787761343661 
+1178370787761343662 
+1178370787761343663 
+1178370787761343664 
+Test insert
+Time taken:8.033µs
+Memory used:88
+Test Search
+Time taken:9.989µs
+Memory used:56
+Test delete
+Time taken:9.151µs
+Memory used:56
+----------------------
+height in tree: 4
+1092760771715527836 
+1092760771715527837 
+1092760771715527838 
+1092760771715527839 
+1092760771715527840 
+1092760771715527841 
+1092760771715527842 
+1092760771715527843 
+1092760771715527844 
+1092760771715527845 
+Test insert
+Time taken:8.592µs
+Memory used:88
+Test Search
+Time taken:10.408µs
+Memory used:56
+Test delete
+Time taken:10.199µs
+Memory used:56
+----------------------
+height in tree: 4
+1836752392659851834 
+1836752392659851835 
+1836752392659851836 
+1836752392659851837 
+1836752392659851838 
+1836752392659851839 
+1836752392659851840 
+1836752392659851841 
+1836752392659851842 
+1836752392659851843 
+Test insert
+Time taken:8.103µs
+Memory used:88
+Test Search
+Time taken:6.636µs
+Memory used:56
+Test delete
+Time taken:10.129µs
+Memory used:56
+----------------------
