@@ -2,8 +2,6 @@ package service
 
 import (
 	"os"
-	"runtime"
-	"strconv"
 	"time"
 )
 
@@ -35,20 +33,10 @@ func (s Delete) do(tree AVLTree) {
 func DoAction(action Action, tree AVLTree, file *os.File) {
 	startTime := time.Now()
 
-	var memStats runtime.MemStats
-	runtime.ReadMemStats(&memStats)
-	startAlloc := memStats.Alloc
-
 	action.do(tree)
 
 	endTime := time.Now()
 	elapsedTime := endTime.Sub(startTime)
 
 	WriteIntoFile("Time taken:"+elapsedTime.String(), file)
-
-	runtime.ReadMemStats(&memStats)
-	endAlloc := memStats.Alloc
-	memoryUsed := endAlloc - startAlloc
-
-	WriteIntoFile("Memory used:"+strconv.Itoa(int(memoryUsed)), file)
 }

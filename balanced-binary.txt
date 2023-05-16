@@ -1,0 +1,90 @@
+Counts:  100
+Memory used: 3200
+Test insert
+Time taken:2.794µs
+Test Search
+Time taken:1.956µs
+Test delete
+Time taken:2.864µs
+----------------------
+Counts:  5100
+Memory used: 163200
+Test insert
+Time taken:2.864µs
+Test Search
+Time taken:2.445µs
+Test delete
+Time taken:2.305µs
+----------------------
+Counts:  10100
+Memory used: 323200
+Test insert
+Time taken:2.933µs
+Test Search
+Time taken:1.886µs
+Test delete
+Time taken:2.375µs
+----------------------
+Counts:  15100
+Memory used: 483200
+Test insert
+Time taken:2.933µs
+Test Search
+Time taken:2.864µs
+Test delete
+Time taken:4.819µs
+----------------------
+Counts:  20100
+Memory used: 643200
+Test insert
+Time taken:7.194µs
+Test Search
+Time taken:2.864µs
+Test delete
+Time taken:3.352µs
+----------------------
+Counts:  25100
+Memory used: 803200
+Test insert
+Time taken:3.841µs
+Test Search
+Time taken:2.864µs
+Test delete
+Time taken:10.336µs
+----------------------
+Counts:  30100
+Memory used: 963200
+Test insert
+Time taken:6.705µs
+Test Search
+Time taken:2.794µs
+Test delete
+Time taken:2.933µs
+----------------------
+Counts:  35100
+Memory used: 1123200
+Test insert
+Time taken:5.238µs
+Test Search
+Time taken:3.841µs
+Test delete
+Time taken:4.26µs
+----------------------
+Counts:  40100
+Memory used: 1283200
+Test insert
+Time taken:5.588µs
+Test Search
+Time taken:2.864µs
+Test delete
+Time taken:3.771µs
+----------------------
+Counts:  45100
+Memory used: 1443200
+Test insert
+Time taken:4.33µs
+Test Search
+Time taken:2.863µs
+Test delete
+Time taken:2.934µs
+----------------------

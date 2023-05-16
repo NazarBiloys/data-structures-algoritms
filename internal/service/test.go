@@ -1,7 +1,6 @@
 package service
 
 import (
-	"fmt"
 	"math/big"
 	"math/rand"
 	"os"
@@ -13,11 +12,13 @@ import (
 func TestBalancedBinary() {
 	var trees []AVLTree
 
+	counts := 100
+
 	// random with big integer
 	for i := 0; i < 10; i++ {
 		tree := AVLTree{}
 
-		for j := 0; j < 10; j++ {
+		for j := 0; j < counts; j++ {
 			source := rand.NewSource(time.Now().UnixNano())
 
 			random := rand.New(source)
@@ -27,47 +28,7 @@ func TestBalancedBinary() {
 			tree.Insert(int(bigInt.Int64()))
 		}
 
-		trees = append(trees, tree)
-	}
-
-	// random with small integer
-	for i := 0; i < 10; i++ {
-		tree := AVLTree{}
-
-		for j := 0; j < 10; j++ {
-			tree.Insert(int(rand.Int63n(100)))
-		}
-
-		trees = append(trees, tree)
-	}
-
-	for i := 0; i < 10; i++ {
-		tree := AVLTree{}
-
-		startValue := rand.Int63n(100)
-
-		for j := 0; j < 10; j++ {
-			startValue = startValue + 1
-			tree.Insert(int(startValue))
-		}
-
-		trees = append(trees, tree)
-	}
-
-	// random with big integer
-	for i := 0; i < 10; i++ {
-		tree := AVLTree{}
-
-		source := rand.NewSource(time.Now().UnixNano())
-
-		random := rand.New(source)
-
-		bigInt := big.NewInt(0).Rand(random, big.NewInt(0).Exp(big.NewInt(10), big.NewInt(100), nil)).Int64()
-
-		for j := 0; j < 10; j++ {
-			bigInt = bigInt + 1
-			tree.Insert(int(bigInt))
-		}
+		counts += 5000
 
 		trees = append(trees, tree)
 	}
@@ -77,8 +38,9 @@ func TestBalancedBinary() {
 	defer file.Close()
 
 	for _, tree := range trees {
-		WriteIntoFile(fmt.Sprintf("height in tree: %d", tree.root.height), file)
-		tree.Output(file)
+		// Calculate the memory usage of the array
+		WriteIntoFile("Counts:  "+strconv.Itoa(CountNodes(tree.root)), file)
+		WriteIntoFile("Memory used: "+strconv.Itoa(int(tree.estimateAVLTreeMemoryUsage())), file)
 
 		WriteIntoFile("Test insert", file)
 

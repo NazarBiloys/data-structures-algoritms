@@ -3,6 +3,7 @@ package service
 import (
 	"fmt"
 	"os"
+	"unsafe"
 )
 
 type Node struct {
@@ -134,6 +135,22 @@ func (t *AVLTree) Search(value int) bool {
 	}
 
 	return false
+}
+
+func (t *AVLTree) estimateAVLTreeMemoryUsage() uintptr {
+	nodeSize := unsafe.Sizeof(Node{})
+	totalNodes := CountNodes(t.root)
+	totalMemoryUsage := nodeSize * uintptr(totalNodes)
+
+	return totalMemoryUsage
+}
+
+func CountNodes(node *Node) int {
+	if node == nil {
+		return 0
+	}
+
+	return 1 + CountNodes(node.left) + CountNodes(node.right)
 }
 
 func (t *AVLTree) InorderTraversal(node *Node) {
